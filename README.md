@@ -11,8 +11,9 @@ Projeto 1 - Dashboard de Vendas
 
 Projeto 2 - 
  Analise de perfil de leads.
-![image](https://github.com/Cayohenrique97/Curso_SQL_Postgre/blob/main/Projetos/Projeto%202.PNG)
+
 
 * Criar um dashboard que analise as principais características dos leads que visitam o nosso e-commerce
 
 
+![image](https://github.com/Cayohenrique97/Curso_SQL_Postgre/blob/main/Projetos/Projeto%202.PNG)
